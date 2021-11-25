@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CuriousKepler
 - 👀 I’m interested in AI and Technology
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, C++, JavaScript, HTML, CSS and more.
 - 💞 I'm currently an undergrad in CS
 - 📫 How to reach me rish23.sharma@gmail.com
 
